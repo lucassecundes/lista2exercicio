@@ -5,6 +5,8 @@
  */
 package aula3;
 
+import java.io.PrintStream;
+
 /**
  *
  * @author aluno
@@ -16,6 +18,24 @@ public class Aula3 {
      */
     public static void main(String[] args) {
         
-    }
-    
+     int suaidade;
+   // int para numeros inteiros.
+     String seunome;
+     // para nomes e usado string.
+     double seupeso;
+     //como e relação a peso precisa ser double.
+     String tiposanguineo;
+     // guardar tipo sanquineo necessita de uma string.
+     int aniversario;
+     // guardao numero inteiro.
+     int calça;
+     // guardar 1 numero inteiro;
+     char sanguineo;
+     sanguineo= 'S';
+     // guardar 1 caracter;
+     boolean casado;
+     // condicional sim ou nao , true ou false;
+     casado= false;
+     
+}
 }
